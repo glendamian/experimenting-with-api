@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "name": "Woody",
+    "totalScore": 212,
+    "averageTake": 6.057142857142857,
+    "gamesWon": 2
+  },
+  {
+    "id": 2,
+    "name": "Buzz",
+    "totalScore": 124,
+    "averageTake": 5.166666666666667,
+    "gamesWon": 0
+  },
+  {
+    "id": 3,
+    "name": "Rex",
+    "totalScore": 136,
+    "averageTake": 5.44,
+    "gamesWon": 0
+  },
+  {
+    "id": 4,
+    "name": "Hamm",
+    "totalScore": 330,
+    "averageTake": 5.409836065573771,
+    "gamesWon": 0
+  },
+  {
+    "id": 5,
+    "name": "Big Baby",
+    "totalScore": 177,
+    "averageTake": 4.916666666666667,
+    "gamesWon": 1
+  },
+  {
+    "id": 6,
+    "name": "Sid",
+    "totalScore": 177,
+    "averageTake": 5.205882352941177,
+    "gamesWon": 0
+  },
+  {
+    "id": 7,
+    "name": "Slinky Dog",
+    "totalScore": 177,
+    "averageTake": 5.205882352941177,
+    "gamesWon": 0
+  },
+  {
+    "id": 8,
+    "name": "Bo Peep",
+    "totalScore": 213,
+    "averageTake": 5.195121951219512,
+    "gamesWon": 0
+  },
+  {
+    "id": 9,
+    "name": "Andy",
+    "totalScore": 125,
+    "averageTake": 5.434782608695652,
+    "gamesWon": 1
+  },
+  {
+    "id": 10,
+    "name": "Jessie",
+    "totalScore": 203,
+    "averageTake": 5.205128205128205,
+    "gamesWon": 0
+  },
+  {
+    "id": 11,
+    "name": "Lotso",
+    "totalScore": 270,
+    "averageTake": 5.74468085106383,
+    "gamesWon": 1
+  },
+  {
+    "id": 12,
+    "name": "Bonnie",
+    "totalScore": 238,
+    "averageTake": 5.666666666666667,
+    "gamesWon": 2
+  },
+  {
+    "id": 13,
+    "name": "Dolly",
+    "totalScore": "N/A",
+    "averageTake": "N/A",
+    "gamesWon": "N/A"
+  },
+  {
+    "id": 14,
+    "name": "Alien 1",
+    "totalScore": 248,
+    "averageTake": 4.862745098039215,
+    "gamesWon": 1
+  },
+  {
+    "id": 15,
+    "name": "Alien 2",
+    "totalScore": 264,
+    "averageTake": 6.285714285714286,
+    "gamesWon": 3
+  },
+  {
+    "id": 16,
+    "name": "Alien 3",
+    "totalScore": "N/A",
+    "averageTake": "N/A",
+    "gamesWon": "N/A"
+  },
+  {
+    "id": 17,
+    "name": "Zurg",
+    "totalScore": 277,
+    "averageTake": 5.770833333333333,
+    "gamesWon": 2
+  },
+  {
+    "id": 18,
+    "name": "Wheezy",
+    "totalScore": 206,
+    "averageTake": 6.0588235294117645,
+    "gamesWon": 2
+  },
+  {
+    "id": 19,
+    "name": "Sergeant",
+    "totalScore": 43,
+    "averageTake": 4.3,
+    "gamesWon": 0
+  },
+  {
+    "id": 20,
+    "name": "Pete",
+    "totalScore": 104,
+    "averageTake": 4.9523809523809526,
+    "gamesWon": 1
+  },
+  {
+    "id": 21,
+    "name": "Andy\u0027s Mom",
+    "totalScore": 111,
+    "averageTake": 5.045454545454546,
+    "gamesWon": 0
+  },
+  {
+    "id": 22,
+    "name": "Al McWhiggin",
+    "totalScore": 172,
+    "averageTake": 4.914285714285715,
+    "gamesWon": 0
+  },
+  {
+    "id": 23,
+    "name": "Duke Kaboom",
+    "totalScore": 214,
+    "averageTake": 5.944444444444445,
+    "gamesWon": 2
+  },
+  {
+    "id": 24,
+    "name": "Forky",
+    "totalScore": 165,
+    "averageTake": 5.0,
+    "gamesWon": 1
+  },
+  {
+    "id": 25,
+    "name": "Ducky",
+    "totalScore": 328,
+    "averageTake": 5.963636363636364,
+    "gamesWon": 4
+  }
+]
